@@ -1,0 +1,2 @@
+<span class="exp-pdp-local-price nsg-text--nike-orange" itemprop="price">$102.99</span>
+<span class="exp-pdp-local-price nsg-text--nike-orange" itemprop="price">$139.99</span>

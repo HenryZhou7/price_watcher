@@ -1,0 +1,52 @@
+<!--
+        To discuss automated access to Amazon data please contact api-services-support@amazon.com.
+        For information about migrating to our APIs refer to our Marketplace APIs at https://developer.amazonservices.ca/ref=rm_5_sv, or our Product Advertising API at https://associates.amazon.ca/gp/advertising/api/detail/main.html/ref=rm_5_ac for advertising use cases.
+-->
+
+<html> 
+<head> 
+<title> 
+Amazon.ca: We're sorry! 
+</title> 
+</head> 
+
+<body bgcolor="#FFFFFF" text="#000000"> 
+
+<div align=center> 
+<a href="http://www.amazon.ca/exec/obidos/tg/browse/-/915398/ref=cs_503_logo/"><img src="https://images-na.ssl-images-amazon.com/images/G/15/navigation/amazon-logo.gif" width=160 height=45 alt="Amazon.ca" border=0></a> 
+<p> 
+
+<table cellpadding=3 width="90%" bgcolor=#ffffff border=0 cellspacing="2" align="center"> 
+<tr> 
+<td> 
+<font face="Verdana,Arial,Helvetica"> 
+
+<h2>We're sorry!</h2>
+
+An error occurred when we tried to process your request. Rest assured, we're already working on the problem and expect to resolve it shortly. 
+<p> 
+In the meantime, please note that if you were trying to make a purchase, your order has not been placed. 
+<p> 
+We apologize for the inconvenience. 
+<p> 
+<img src="https://images-na.ssl-images-amazon.com/images/G/15/x-locale/common/orange-arrow.gif" width=10 height=9 border=0 alt="*"> 
+<b><a href="http://www.amazon.ca/exec/obidos/tg/browse/-/915398/ref=cs_503_link/">Click here to visit the Amazon.ca home page</a></b> 
+
+<h2>Toutes nos excuses</h2> 
+
+Une erreur de syst&egrave;me interne a &eacute;t&eacute; d&eacute;cel&eacute;e. Nos &eacute;quipes techniques se chargent de la r&eacute;soudre. Nous vous prions de nous excuser pour la g&ecirc;ne caus&eacute;e.
+<p> 
+
+<img src="https://images-na.ssl-images-amazon.com/images/G/15/x-locale/common/orange-arrow.gif" width=10 height=9 border=0 alt="*"> 
+<b><a href="http://www.amazon.ca/exec/obidos/tg/browse/-/915398/ref=cs_503_link/">Page d'accueil</a></b> 
+
+</font>
+
+</td>
+</tr>
+</table>
+
+</div>
+</body>
+</html>
+
