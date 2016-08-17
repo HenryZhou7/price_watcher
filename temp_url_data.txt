@@ -312,34 +312,34 @@ nike.exp.script.device_detect = nike.exp.script.device_detect || {};
 }();
 </script>
   <script>
-    window.nike.exp.script.device_detect.redirectOnAgentMismatch('false', 'http://m.nike.com/ca/en_gb/pd/lebron-xiii-low-limited-basketball-shoe/pid-11221026/pgid-11502150');
+    window.nike.exp.script.device_detect.redirectOnAgentMismatch('false', 'http://m.nike.com/ca/en_gb/pd/tiempo-legend-vi-ag-pro-football-boot/pid-11056727/pgid-11295131');
   </script>
-  <title>LeBron XIII Low Limited Men's Basketball Shoe. Nike.com CA</title>
+  <title>Nike Tiempo Legend VI AG-PRO Men's Artificial-Grass Football Boot. Nike.com CA</title>
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta name="robots" content="index,follow" />
   <meta http-equiv="content-language" content="en">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-    <meta name="description" content="Shop for the LeBron XIII Low Limited Men's Basketball Shoe at the official Nike Store.  Read product specs and order the LeBron XIII Low Limited Men's Basketball Shoe online." />
+    <meta name="description" content="Shop for the Nike Tiempo Legend VI AG-PRO Men's Artificial-Grass Football Boot at the official Nike Store.  Read product specs and order the Nike Tiempo Legend VI AG-PRO Men's Artificial-Grass Football Boot online." />
     <meta name="keywords" content=" " />
     <meta property="og:type" content="product" />
     <meta property="og:title" content="Look what I found at Nike online." />
     <meta property="og:description" content="Shop Nike for shoes, clothing & gear at www.nike.com" />
     <meta property="og:site_name" content="Nike.com" />
-    <meta property="og:url" content="http://store.nike.com/ca/en_gb/pd/lebron-xiii-low-limited-basketball-shoe/pid-11221026/pgid-11502150" />
-    <meta property="og:image" content="http://images.nike.com/is/image/DotCom/THN_PS/LeBron-XIII-Low-Limited-Mens-Basketball-Shoe-849783_002.jpg?hei=620&wid=620&fmt=png" />
+    <meta property="og:url" content="http://store.nike.com/ca/en_gb/pd/tiempo-legend-vi-ag-pro-football-boot/pid-11056727/pgid-11295131" />
+    <meta property="og:image" content="http://images.nike.com/is/image/DotCom/THN_PS/Nike-Tiempo-Legend-VI-AG-PRO-Mens-Artificial-Grass-Football-Boot-844593_004.jpg?hei=620&wid=620&fmt=png" />
     <meta property="og:locale" content="en_GB" />
     <meta property="og:price:currency" content="CAD" />
-    <meta property="og:price:amount" content="215.0" />
+    <meta property="og:price:amount" content="290.0" />
     <meta property="product:price:currency" content="CAD" />
-    <meta property="product:price:amount" content="215.0" />
+    <meta property="product:price:amount" content="290.0" />
     <meta property="twitter:card" content="summary_large_image" />
     <meta property="twitter:site" content="@NikeStoreEurope" />
     <meta property="twitter:creator" content="@NikeStoreEurope" />
     <meta property="fb:app_id" content="455958364447899" />
 
-    <link rel="canonical" href="http://store.nike.com/ca/en_gb/pd/lebron-xiii-low-limited-basketball-shoe/pid-11221026/pgid-11502150" />
-    <link rel="alternate" media="only screen and (max-width: 640px)" href="http://m.nike.com/ca/en_gb/pd/lebron-xiii-low-limited-basketball-shoe/pid-11221026/pgid-11502150" />
+    <link rel="canonical" href="http://store.nike.com/ca/en_gb/pd/tiempo-legend-vi-ag-pro-football-boot/pid-11056727/pgid-11295131" />
+    <link rel="alternate" media="only screen and (max-width: 640px)" href="http://m.nike.com/ca/en_gb/pd/tiempo-legend-vi-ag-pro-football-boot/pid-11056727/pgid-11295131" />
 
   
   <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
@@ -1760,7 +1760,7 @@ nike.exp.script.device_detect = nike.exp.script.device_detect || {};
                                 <div class="subnav-item js-listItem " data-nav-tracking="clearance">
                                   <a
                                     class="subnav-itemheader nsg-text--dark-grey nsg-font-family--platform js-columnItem js-navItem"
-                                    href="http://store.nike.com/ca/en_gb/pw/boys-nikeid/7pvZool"
+                                    href="http://store.nike.com/ca/en_gb/pw/boys-sale/47Z7pv"
                                     data-track-click="true"
                                     
                                     
@@ -3177,12 +3177,12 @@ nike.exp.script.device_detect = nike.exp.script.device_detect || {};
                   
                   <div class="exp-pdp-product-image">
                       <div class="hero-image-container">
-                          <img class="exp-pdp-hero-image exp-pdp-large-hero-image active" data-index="0" data-productId="11221026"
-                               src="http://images.nike.com/is/image/DotCom/PDP_HERO/LEBRON-XIII-LOW-LMTD-849783_002_A_PREM.jpg"
-                               data-src-large="http://images.nike.com/is/image/DotCom/PDP_HERO/LEBRON-XIII-LOW-LMTD-849783_002_A_PREM.jpg"
-                               data-src-medium="http://images.nike.com/is/image/DotCom/PDP_HERO_M/LEBRON-XIII-LOW-LMTD-849783_002_A_PREM.jpg"
-                               data-src-small="http://images.nike.com/is/image/DotCom/PDP_HERO_S/LEBRON-XIII-LOW-LMTD-849783_002_A_PREM.jpg"
-                               alt="LeBron XIII Low Limited Men's Basketball Shoe" />
+                          <img class="exp-pdp-hero-image exp-pdp-large-hero-image active" data-index="0" data-productId="11056727"
+                               src="http://images.nike.com/is/image/DotCom/PDP_HERO/TIEMPO-LEGEND-VI-AG-PRO-844593_004_A_PREM.jpg"
+                               data-src-large="http://images.nike.com/is/image/DotCom/PDP_HERO/TIEMPO-LEGEND-VI-AG-PRO-844593_004_A_PREM.jpg"
+                               data-src-medium="http://images.nike.com/is/image/DotCom/PDP_HERO_M/TIEMPO-LEGEND-VI-AG-PRO-844593_004_A_PREM.jpg"
+                               data-src-small="http://images.nike.com/is/image/DotCom/PDP_HERO_S/TIEMPO-LEGEND-VI-AG-PRO-844593_004_A_PREM.jpg"
+                               alt="Nike Tiempo Legend VI AG-PRO Men's Artificial-Grass Football Boot" />
                       </div>
                       <div class="exp-pdp-alt-image-hero-images hidden"></div>    <div class="exp-pdp-hero-zoom-touch-dialog-container">
                           <span class="tablet-dialog">Touch and hold to zoom</span>
@@ -3198,66 +3198,66 @@ nike.exp.script.device_detect = nike.exp.script.device_detect || {};
                       <div class="exp-pdp-alt-images-viewport ">
                           <ul class="exp-pdp-alt-images-carousel" >
                                 <li class="exp-pdp-image-container exp-pdp-active" >
-                                    <img class="exp-pdp-alt-image" alt="LeBron XIII Low Limited Men&#x27;s Basketball Shoe" src="http://images.nike.com/is/image/DotCom/PDP_THUMB/LEBRON-XIII-LOW-LMTD-849783_002_A_PREM.jpg"
-                                         data-large-image="http://images.nike.com/is/image/DotCom/PDP_HERO/LEBRON-XIII-LOW-LMTD-849783_002_A_PREM.jpg"
-                                         data-medium-image="http://images.nike.com/is/image/DotCom/PDP_HERO_M/LEBRON-XIII-LOW-LMTD-849783_002_A_PREM.jpg"
-                                         data-small-image="http://images.nike.com/is/image/DotCom/PDP_HERO_S/LEBRON-XIII-LOW-LMTD-849783_002_A_PREM.jpg"
+                                    <img class="exp-pdp-alt-image" alt="Nike Tiempo Legend VI AG-PRO Men&#x27;s Artificial-Grass Football Boot" src="http://images.nike.com/is/image/DotCom/PDP_THUMB/TIEMPO-LEGEND-VI-AG-PRO-844593_004_A_PREM.jpg"
+                                         data-large-image="http://images.nike.com/is/image/DotCom/PDP_HERO/TIEMPO-LEGEND-VI-AG-PRO-844593_004_A_PREM.jpg"
+                                         data-medium-image="http://images.nike.com/is/image/DotCom/PDP_HERO_M/TIEMPO-LEGEND-VI-AG-PRO-844593_004_A_PREM.jpg"
+                                         data-small-image="http://images.nike.com/is/image/DotCom/PDP_HERO_S/TIEMPO-LEGEND-VI-AG-PRO-844593_004_A_PREM.jpg"
                                          data-index="0"
                                          />
                                 </li>
                                 <li class="exp-pdp-image-container " >
-                                    <img class="exp-pdp-alt-image" alt="LeBron XIII Low Limited Men&#x27;s Basketball Shoe" src="http://images2.nike.com/is/image/DotCom/PDP_THUMB/LEBRON-XIII-LOW-LMTD-849783_002_B_PREM.jpg"
-                                         data-large-image="http://images2.nike.com/is/image/DotCom/PDP_HERO/LEBRON-XIII-LOW-LMTD-849783_002_B_PREM.jpg"
-                                         data-medium-image="http://images2.nike.com/is/image/DotCom/PDP_HERO_M/LEBRON-XIII-LOW-LMTD-849783_002_B_PREM.jpg"
-                                         data-small-image="http://images2.nike.com/is/image/DotCom/PDP_HERO_S/LEBRON-XIII-LOW-LMTD-849783_002_B_PREM.jpg"
+                                    <img class="exp-pdp-alt-image" alt="Nike Tiempo Legend VI AG-PRO Men&#x27;s Artificial-Grass Football Boot" src="http://images2.nike.com/is/image/DotCom/PDP_THUMB/TIEMPO-LEGEND-VI-AG-PRO-844593_004_B_PREM.jpg"
+                                         data-large-image="http://images2.nike.com/is/image/DotCom/PDP_HERO/TIEMPO-LEGEND-VI-AG-PRO-844593_004_B_PREM.jpg"
+                                         data-medium-image="http://images2.nike.com/is/image/DotCom/PDP_HERO_M/TIEMPO-LEGEND-VI-AG-PRO-844593_004_B_PREM.jpg"
+                                         data-small-image="http://images2.nike.com/is/image/DotCom/PDP_HERO_S/TIEMPO-LEGEND-VI-AG-PRO-844593_004_B_PREM.jpg"
                                          data-index="1"
                                          />
                                 </li>
                                 <li class="exp-pdp-image-container " >
-                                    <img class="exp-pdp-alt-image" alt="LeBron XIII Low Limited Men&#x27;s Basketball Shoe" src="http://images3.nike.com/is/image/DotCom/PDP_THUMB/LEBRON-XIII-LOW-LMTD-849783_002_C_PREM.jpg"
-                                         data-large-image="http://images3.nike.com/is/image/DotCom/PDP_HERO/LEBRON-XIII-LOW-LMTD-849783_002_C_PREM.jpg"
-                                         data-medium-image="http://images3.nike.com/is/image/DotCom/PDP_HERO_M/LEBRON-XIII-LOW-LMTD-849783_002_C_PREM.jpg"
-                                         data-small-image="http://images3.nike.com/is/image/DotCom/PDP_HERO_S/LEBRON-XIII-LOW-LMTD-849783_002_C_PREM.jpg"
+                                    <img class="exp-pdp-alt-image" alt="Nike Tiempo Legend VI AG-PRO Men&#x27;s Artificial-Grass Football Boot" src="http://images3.nike.com/is/image/DotCom/PDP_THUMB/TIEMPO-LEGEND-VI-AG-PRO-844593_004_C_PREM.jpg"
+                                         data-large-image="http://images3.nike.com/is/image/DotCom/PDP_HERO/TIEMPO-LEGEND-VI-AG-PRO-844593_004_C_PREM.jpg"
+                                         data-medium-image="http://images3.nike.com/is/image/DotCom/PDP_HERO_M/TIEMPO-LEGEND-VI-AG-PRO-844593_004_C_PREM.jpg"
+                                         data-small-image="http://images3.nike.com/is/image/DotCom/PDP_HERO_S/TIEMPO-LEGEND-VI-AG-PRO-844593_004_C_PREM.jpg"
                                          data-index="2"
                                          />
                                 </li>
                                 <li class="exp-pdp-image-container " >
-                                    <img class="exp-pdp-alt-image" alt="LeBron XIII Low Limited Men&#x27;s Basketball Shoe" src="http://images.nike.com/is/image/DotCom/PDP_THUMB/LEBRON-XIII-LOW-LMTD-849783_002_D_PREM.jpg"
-                                         data-large-image="http://images.nike.com/is/image/DotCom/PDP_HERO/LEBRON-XIII-LOW-LMTD-849783_002_D_PREM.jpg"
-                                         data-medium-image="http://images.nike.com/is/image/DotCom/PDP_HERO_M/LEBRON-XIII-LOW-LMTD-849783_002_D_PREM.jpg"
-                                         data-small-image="http://images.nike.com/is/image/DotCom/PDP_HERO_S/LEBRON-XIII-LOW-LMTD-849783_002_D_PREM.jpg"
+                                    <img class="exp-pdp-alt-image" alt="Nike Tiempo Legend VI AG-PRO Men&#x27;s Artificial-Grass Football Boot" src="http://images.nike.com/is/image/DotCom/PDP_THUMB/TIEMPO-LEGEND-VI-AG-PRO-844593_004_D_PREM.jpg"
+                                         data-large-image="http://images.nike.com/is/image/DotCom/PDP_HERO/TIEMPO-LEGEND-VI-AG-PRO-844593_004_D_PREM.jpg"
+                                         data-medium-image="http://images.nike.com/is/image/DotCom/PDP_HERO_M/TIEMPO-LEGEND-VI-AG-PRO-844593_004_D_PREM.jpg"
+                                         data-small-image="http://images.nike.com/is/image/DotCom/PDP_HERO_S/TIEMPO-LEGEND-VI-AG-PRO-844593_004_D_PREM.jpg"
                                          data-index="3"
                                          />
                                 </li>
                                 <li class="exp-pdp-image-container " >
-                                    <img class="exp-pdp-alt-image" alt="LeBron XIII Low Limited Men&#x27;s Basketball Shoe" src="http://images2.nike.com/is/image/DotCom/PDP_THUMB/LEBRON-XIII-LOW-LMTD-849783_002_E_PREM.jpg"
-                                         data-large-image="http://images2.nike.com/is/image/DotCom/PDP_HERO/LEBRON-XIII-LOW-LMTD-849783_002_E_PREM.jpg"
-                                         data-medium-image="http://images2.nike.com/is/image/DotCom/PDP_HERO_M/LEBRON-XIII-LOW-LMTD-849783_002_E_PREM.jpg"
-                                         data-small-image="http://images2.nike.com/is/image/DotCom/PDP_HERO_S/LEBRON-XIII-LOW-LMTD-849783_002_E_PREM.jpg"
+                                    <img class="exp-pdp-alt-image" alt="Nike Tiempo Legend VI AG-PRO Men&#x27;s Artificial-Grass Football Boot" src="http://images2.nike.com/is/image/DotCom/PDP_THUMB/TIEMPO-LEGEND-VI-AG-PRO-844593_004_E_PREM.jpg"
+                                         data-large-image="http://images2.nike.com/is/image/DotCom/PDP_HERO/TIEMPO-LEGEND-VI-AG-PRO-844593_004_E_PREM.jpg"
+                                         data-medium-image="http://images2.nike.com/is/image/DotCom/PDP_HERO_M/TIEMPO-LEGEND-VI-AG-PRO-844593_004_E_PREM.jpg"
+                                         data-small-image="http://images2.nike.com/is/image/DotCom/PDP_HERO_S/TIEMPO-LEGEND-VI-AG-PRO-844593_004_E_PREM.jpg"
                                          data-index="4"
                                          />
                                 </li>
                                 <li class="exp-pdp-image-container " >
-                                    <img class="exp-pdp-alt-image" alt="LeBron XIII Low Limited Men&#x27;s Basketball Shoe" src="http://images3.nike.com/is/image/DotCom/PDP_THUMB/LEBRON-XIII-LOW-LMTD-849783_002_F_PREM.jpg"
-                                         data-large-image="http://images3.nike.com/is/image/DotCom/PDP_HERO/LEBRON-XIII-LOW-LMTD-849783_002_F_PREM.jpg"
-                                         data-medium-image="http://images3.nike.com/is/image/DotCom/PDP_HERO_M/LEBRON-XIII-LOW-LMTD-849783_002_F_PREM.jpg"
-                                         data-small-image="http://images3.nike.com/is/image/DotCom/PDP_HERO_S/LEBRON-XIII-LOW-LMTD-849783_002_F_PREM.jpg"
+                                    <img class="exp-pdp-alt-image" alt="Nike Tiempo Legend VI AG-PRO Men&#x27;s Artificial-Grass Football Boot" src="http://images3.nike.com/is/image/DotCom/PDP_THUMB/TIEMPO-LEGEND-VI-AG-PRO-844593_004_F_PREM.jpg"
+                                         data-large-image="http://images3.nike.com/is/image/DotCom/PDP_HERO/TIEMPO-LEGEND-VI-AG-PRO-844593_004_F_PREM.jpg"
+                                         data-medium-image="http://images3.nike.com/is/image/DotCom/PDP_HERO_M/TIEMPO-LEGEND-VI-AG-PRO-844593_004_F_PREM.jpg"
+                                         data-small-image="http://images3.nike.com/is/image/DotCom/PDP_HERO_S/TIEMPO-LEGEND-VI-AG-PRO-844593_004_F_PREM.jpg"
                                          data-index="5"
                                          />
                                 </li>
                                 <li class="exp-pdp-image-container " >
-                                    <img class="exp-pdp-alt-image" alt="LeBron XIII Low Limited Men&#x27;s Basketball Shoe" src="http://images.nike.com/is/image/DotCom/PDP_THUMB/LEBRON-XIII-LOW-LMTD-849783_002_G_PREM.jpg"
-                                         data-large-image="http://images.nike.com/is/image/DotCom/PDP_HERO/LEBRON-XIII-LOW-LMTD-849783_002_G_PREM.jpg"
-                                         data-medium-image="http://images.nike.com/is/image/DotCom/PDP_HERO_M/LEBRON-XIII-LOW-LMTD-849783_002_G_PREM.jpg"
-                                         data-small-image="http://images.nike.com/is/image/DotCom/PDP_HERO_S/LEBRON-XIII-LOW-LMTD-849783_002_G_PREM.jpg"
+                                    <img class="exp-pdp-alt-image" alt="Nike Tiempo Legend VI AG-PRO Men&#x27;s Artificial-Grass Football Boot" src="http://images.nike.com/is/image/DotCom/PDP_THUMB/TIEMPO-LEGEND-VI-AG-PRO-844593_004_G_PREM.jpg"
+                                         data-large-image="http://images.nike.com/is/image/DotCom/PDP_HERO/TIEMPO-LEGEND-VI-AG-PRO-844593_004_G_PREM.jpg"
+                                         data-medium-image="http://images.nike.com/is/image/DotCom/PDP_HERO_M/TIEMPO-LEGEND-VI-AG-PRO-844593_004_G_PREM.jpg"
+                                         data-small-image="http://images.nike.com/is/image/DotCom/PDP_HERO_S/TIEMPO-LEGEND-VI-AG-PRO-844593_004_G_PREM.jpg"
                                          data-index="6"
                                          />
                                 </li>
                                 <li class="exp-pdp-image-container " >
-                                    <img class="exp-pdp-alt-image" alt="LeBron XIII Low Limited Men&#x27;s Basketball Shoe" src="http://images2.nike.com/is/image/DotCom/PDP_THUMB/LEBRON-XIII-LOW-LMTD-849783_002_H_PREM.jpg"
-                                         data-large-image="http://images2.nike.com/is/image/DotCom/PDP_HERO/LEBRON-XIII-LOW-LMTD-849783_002_H_PREM.jpg"
-                                         data-medium-image="http://images2.nike.com/is/image/DotCom/PDP_HERO_M/LEBRON-XIII-LOW-LMTD-849783_002_H_PREM.jpg"
-                                         data-small-image="http://images2.nike.com/is/image/DotCom/PDP_HERO_S/LEBRON-XIII-LOW-LMTD-849783_002_H_PREM.jpg"
+                                    <img class="exp-pdp-alt-image" alt="Nike Tiempo Legend VI AG-PRO Men&#x27;s Artificial-Grass Football Boot" src="http://images2.nike.com/is/image/DotCom/PDP_THUMB/TIEMPO-LEGEND-VI-AG-PRO-844593_004_H_PREM.jpg"
+                                         data-large-image="http://images2.nike.com/is/image/DotCom/PDP_HERO/TIEMPO-LEGEND-VI-AG-PRO-844593_004_H_PREM.jpg"
+                                         data-medium-image="http://images2.nike.com/is/image/DotCom/PDP_HERO_M/TIEMPO-LEGEND-VI-AG-PRO-844593_004_H_PREM.jpg"
+                                         data-small-image="http://images2.nike.com/is/image/DotCom/PDP_HERO_S/TIEMPO-LEGEND-VI-AG-PRO-844593_004_H_PREM.jpg"
                                          data-index="7"
                                          />
                                 </li>
@@ -3270,13 +3270,13 @@ nike.exp.script.device_detect = nike.exp.script.device_detect || {};
                       <div class="exp-pdp-social-dialog js-exp-pdp-social-dialog">
                         <div class="exp-pdp-social-buttons">
                               <div class="exp-facebook-like-container">
-                                  <div class="social-facebook glyph-icon js-exp-sharing-option" data-url="http://store.nike.com/ca/en_gb/pd/lebron-xiii-low-limited-basketball-shoe/pid-11221026/pgid-11502150?cp&#x3D;euns_soc_101511_fbshare"data-type="static" ></div>
+                                  <div class="social-facebook glyph-icon js-exp-sharing-option" data-type="static"data-url="http://store.nike.com/ca/en_gb/pd/tiempo-legend-vi-ag-pro-football-boot/pid-11056727/pgid-11295131?cp&#x3D;euns_soc_101511_fbshare" ></div>
                               </div>
                               <div class="exp-twitter-tweet-container">
-                                  <div class="social-twitter glyph-icon js-exp-sharing-option" data-url="http://store.nike.com/ca/en_gb/pd/lebron-xiii-low-limited-basketball-shoe/pid-11221026/pgid-11502150?cp&#x3D;euns_soc_101511_twitshare"data-type="static"data-text="LeBron XIII Low Limited Men&#x27;s Basketball Shoe" ></div>
+                                  <div class="social-twitter glyph-icon js-exp-sharing-option" data-type="static"data-url="http://store.nike.com/ca/en_gb/pd/tiempo-legend-vi-ag-pro-football-boot/pid-11056727/pgid-11295131?cp&#x3D;euns_soc_101511_twitshare"data-text="Nike Tiempo Legend VI AG-PRO Men&#x27;s Artificial-Grass Football Boot" ></div>
                               </div>
                               <div class="exp-pinterest-pinit-container">
-                                  <div class="social-pinterest glyph-icon js-exp-sharing-option" data-pic="http://images.nike.com/is/image/DotCom/THN_PS/LEBRON-XIII-LOW-LMTD-849783_002.jpg?hei&#x3D;300&amp;wid&#x3D;400&amp;fmt&#x3D;png"data-url="http://pinterest.com/pin/create/button/?url&#x3D;http%3A%2F%2Fstore.nike.com%2Fca%2Fen_gb%2Fpd%2Flebron-xiii-low-limited-basketball-shoe%2Fpid-11221026%2Fpgid-11502150%3Fcp%3Deuns_soc_042213_pinshare&amp;media&#x3D;http%3A%2F%2Fimages.nike.com%2Fis%2Fimage%2FDotCom%2FTHN_PS%2FLEBRON-XIII-LOW-LMTD-849783_002.jpg%3Fhei%3D300%26wid%3D400%26fmt%3Dpng&amp;description&#x3D;LeBron+XIII+Low+Limited+Men%27s+Basketball+Shoe"data-type="static"data-text="LeBron XIII Low Limited Men&#x27;s Basketball Shoe" ></div>
+                                  <div class="social-pinterest glyph-icon js-exp-sharing-option" data-type="static"data-url="http://pinterest.com/pin/create/button/?url&#x3D;http%3A%2F%2Fstore.nike.com%2Fca%2Fen_gb%2Fpd%2Ftiempo-legend-vi-ag-pro-football-boot%2Fpid-11056727%2Fpgid-11295131%3Fcp%3Deuns_soc_042213_pinshare&amp;media&#x3D;http%3A%2F%2Fimages.nike.com%2Fis%2Fimage%2FDotCom%2FTHN_PS%2FTIEMPO-LEGEND-VI-AG-PRO-844593_004.jpg%3Fhei%3D300%26wid%3D400%26fmt%3Dpng&amp;description&#x3D;Nike+Tiempo+Legend+VI+AG-PRO+Men%27s+Artificial-Grass+Football+Boot"data-text="Nike Tiempo Legend VI AG-PRO Men&#x27;s Artificial-Grass Football Boot"data-pic="http://images.nike.com/is/image/DotCom/THN_PS/TIEMPO-LEGEND-VI-AG-PRO-844593_004.jpg?hei&#x3D;300&amp;wid&#x3D;400&amp;fmt&#x3D;png" ></div>
                               </div>
                         </div>
                         <div class="nsg-glyph--arrow-down glyph-pointer"></div>
@@ -3298,15 +3298,15 @@ nike.exp.script.device_detect = nike.exp.script.device_detect || {};
                   
                   
                   <div class="exp-product-header">
-                        <h1 class="exp-product-title nsg-font-family--platform"  itemprop="name">LeBron XIII Low Limited</h1>
-                        <h2 class="exp-product-subtitle nsg-font-family--platform" >Men's Basketball Shoe</h2>
+                        <h1 class="exp-product-title nsg-font-family--platform"  itemprop="name">Nike Tiempo Legend VI AG-PRO</h1>
+                        <h2 class="exp-product-subtitle nsg-font-family--platform" >Men's Artificial-Grass Football Boot</h2>
                       <div class="exp-product-info nsg-font-family--platform">
                           
                           
                           
                           
                           <span class="exp-pdp-product-price-container">  <div class="exp-pdp-product-price nsg-text--dark-grey"  itemtype="http://schema.org/Offer" itemprop="offers" itemscope="">
-                              <span class="exp-pdp-local-price" itemprop="price">$215</span>
+                              <span class="exp-pdp-local-price" itemprop="price">$290</span>
                             </div>
                           </span>
                               <div class="exp-pdp-ratings-container no-reviews" >
@@ -3326,10 +3326,10 @@ nike.exp.script.device_detect = nike.exp.script.device_detect || {};
                   
                   
                   
-                  <div class="hero-product-style-color-info" data-stylenumber="849783" >
+                  <div class="hero-product-style-color-info" data-stylenumber="844593" >
                       <div class="colorNum clearfix">
-                        <span class="exp-style-color">Style: 849783-002</span>
-                            <span class="colorText">Phantom/Neutral Olive/Turf Orange/Phantom</span>
+                        <span class="exp-style-color">Style: 844593-004</span>
+                            <span class="colorText">Black/Black</span>
                       </div>
                   </div>  
                   
@@ -3349,11 +3349,23 @@ nike.exp.script.device_detect = nike.exp.script.device_detect || {};
                       <div class="color-chips">
                         <ul data-status="IN_STOCK" class="color-chip-container">
                             <li class="selected">
-                        <a href="http://store.nike.com/ca/en_gb/pd/lebron-xiii-low-limited-basketball-shoe/pid-11221026/pgid-11502150" data-productid="11221026" title="Phantom/Neutral Olive/Turf Orange/Phantom" aria-label="pdp.selected.colorWay.ariaPhantom/Neutral Olive/Turf Orange/Phantom">
-                          <img src="http://images.nike.com/is/image/DotCom/PDP_THUMB/LeBron-XIII-Low-Limited-849783_002.jpg" alt="Phantom/Neutral Olive/Turf Orange/Phantom" />
+                        <a href="http://store.nike.com/ca/en_gb/pd/tiempo-legend-vi-ag-pro-football-boot/pid-11056727/pgid-11295131" data-productid="11056727" title="Black/Black" aria-label="pdp.selected.colorWay.ariaBlack/Black">
+                          <img src="http://images.nike.com/is/image/DotCom/PDP_THUMB/Nike-Tiempo-Legend-VI-AG-PRO-844593_004.jpg" alt="Black/Black" />
+                        </a>
+                      </li>
+                      <li class="">
+                        <a href="http://store.nike.com/ca/en_gb/pd/tiempo-legend-vi-ag-pro-football-boot/pid-11056728/pgid-11295131" data-productid="11056728" title="Wolf Grey/Clear Jade/Hyper Turquoise/Black" aria-label="Product colour:Wolf Grey/Clear Jade/Hyper Turquoise/Black">
+                          <img src="http://images.nike.com/is/image/DotCom/PDP_THUMB/Nike-Tiempo-Legend-VI-AG-PRO-844593_005.jpg" alt="Wolf Grey/Clear Jade/Hyper Turquoise/Black" />
                         </a>
                       </li>
                     
+                              <li class="nikeidButton">
+                                <a href="http://store.nike.com/ca/en_gb/product/tiempo-legend-vi-id-shoe/?piid=42929&pbid=357230467#?pbid=357230467" data-productid="http://store.nike.com/ca/en_gb/product/tiempo-legend-vi-id-shoe/?piid=42929&pbid=357230467#?pbid=357230467" aria-label="pdp.designYourOwn.colorWay.aria">
+                                  <div class="nikeid-customize-button">
+                                    <img src="http://images.nike.com/is/image/DotCom/en_us-DYO?$PDP_THUMB$" alt="BEGIN CUSTOMIZING" />
+                                  </div>
+                                </a>
+                              </li>
                         </ul>
                       </div>
                     
@@ -3390,11 +3402,11 @@ nike.exp.script.device_detect = nike.exp.script.device_detect || {};
                           <input type="hidden" name="lang_locale" value="en_GB"/>
                           <input type="hidden" name="country" value="CA"/>
                           <input type="hidden" name="catalogId" value="5"/>
-                          <input type="hidden" name="productId" value="11221026"/>
-                          <input type="hidden" name="price" value="215.0"/>
+                          <input type="hidden" name="productId" value="11056727"/>
+                          <input type="hidden" name="price" value="290.0"/>
                           <input type="hidden" name="siteId" value=""/>
-                          <input type="hidden" name="line1" value="LeBron XIII Low Limited"/>
-                          <input type="hidden" name="line2" value="Men&#x27;s Basketball Shoe"/>
+                          <input type="hidden" name="line1" value="Nike Tiempo Legend VI AG-PRO"/>
+                          <input type="hidden" name="line2" value="Men&#x27;s Artificial-Grass Football Boot"/>
                           <input type="hidden" name="passcode" />
                           <input type="hidden" name="sizeType" value="US"/>
                     
@@ -3410,105 +3422,121 @@ nike.exp.script.device_detect = nike.exp.script.device_detect || {};
                                       data-tooltiptext="Select a Size" required="required"
                                       data-error="Select a Size"  data-has-fixed-ancestor="true">
                                 <option class="exp-pdp-size-not-in-stock" value=""></option>
+                                    <option class="exp-pdp-size-not-in-stock selectBox-disabled"
+                                          name="skuId"
+                                          value="17576431:6"
+                                          data-label="(US 6)">
+                    								  US 6
+                                    </option>
+                                    <option class="exp-pdp-size-not-in-stock selectBox-disabled"
+                                          name="skuId"
+                                          value="17188879:6.5"
+                                          data-label="(US 6.5)">
+                    								  US 6.5
+                                    </option>
                                     <option 
                                           name="skuId"
-                                          value="17359832:7"
+                                          value="16544188:7"
                                           data-label="(US 7)">
                     								  US 7
                                     </option>
                                     <option 
                                           name="skuId"
-                                          value="17359833:7.5"
+                                          value="16544189:7.5"
                                           data-label="(US 7.5)">
                     								  US 7.5
                                     </option>
                                     <option 
                                           name="skuId"
-                                          value="17359817:8"
+                                          value="16544190:8"
                                           data-label="(US 8)">
                     								  US 8
                                     </option>
                                     <option 
                                           name="skuId"
-                                          value="17359819:8.5"
+                                          value="16544191:8.5"
                                           data-label="(US 8.5)">
                     								  US 8.5
                                     </option>
                                     <option 
                                           name="skuId"
-                                          value="17359826:9"
+                                          value="16544192:9"
                                           data-label="(US 9)">
                     								  US 9
                                     </option>
                                     <option 
                                           name="skuId"
-                                          value="17359829:9.5"
+                                          value="16544193:9.5"
                                           data-label="(US 9.5)">
                     								  US 9.5
                                     </option>
                                     <option 
                                           name="skuId"
-                                          value="17359820:10"
+                                          value="16544194:10"
                                           data-label="(US 10)">
                     								  US 10
                                     </option>
                                     <option 
                                           name="skuId"
-                                          value="17359823:10.5"
+                                          value="16544180:10.5"
                                           data-label="(US 10.5)">
                     								  US 10.5
                                     </option>
                                     <option 
                                           name="skuId"
-                                          value="17359812:11"
+                                          value="16544181:11"
                                           data-label="(US 11)">
                     								  US 11
                                     </option>
-                                    <option 
+                                    <option class="exp-pdp-size-not-in-stock selectBox-disabled"
                                           name="skuId"
-                                          value="17359809:11.5"
+                                          value="16544182:11.5"
                                           data-label="(US 11.5)">
                     								  US 11.5
                                     </option>
                                     <option 
                                           name="skuId"
-                                          value="17359825:12"
+                                          value="16544183:12"
                                           data-label="(US 12)">
                     								  US 12
                                     </option>
-                                    <option 
+                                    <option class="exp-pdp-size-not-in-stock selectBox-disabled"
                                           name="skuId"
-                                          value="17359821:12.5"
+                                          value="16544184:12.5"
                                           data-label="(US 12.5)">
                     								  US 12.5
                                     </option>
-                                    <option 
+                                    <option class="exp-pdp-size-not-in-stock selectBox-disabled"
                                           name="skuId"
-                                          value="17359811:13"
+                                          value="16544185:13"
                                           data-label="(US 13)">
                     								  US 13
                                     </option>
-                                    <option 
+                                    <option class="exp-pdp-size-not-in-stock selectBox-disabled"
                                           name="skuId"
-                                          value="17359813:13.5"
-                                          data-label="(US 13.5)">
-                    								  US 13.5
-                                    </option>
-                                    <option 
-                                          name="skuId"
-                                          value="17359822:14"
+                                          value="16544186:14"
                                           data-label="(US 14)">
                     								  US 14
                                     </option>
-                                    <option 
+                                    <option class="exp-pdp-size-not-in-stock selectBox-disabled"
                                           name="skuId"
-                                          value="17359810:15"
+                                          value="16544187:15"
                                           data-label="(US 15)">
                     								  US 15
                                     </option>
                               </select>
                     
                               <div class="exp-pdp-size-dropdown-additional-info">
+                                  <div class="exp-pdp-customize-cta-container">
+                                    <div
+                                        class="title nsg-font-family--platform nsg-text--dark-grey" >Don’t see your size?</div>
+                                    <div
+                                        class="body nsg-font-family--base nsg-text--medium-grey" >Additional sizes and features are available when you customise with NIKEiD.</div>
+                                    <button type="button" class="nsg-button nsg-grad--dark-grey customize js-customize-button"
+                                            data-customize-url="http://store.nike.com/ca/en_gb/product/tiempo-legend-vi-id-shoe/?piid=42929&pbid=357230467#?pbid=357230467" >Customise it</button>
+                                    <a class="is-hidden"
+                                       href="http://store.nike.com/ca/en_gb/product/tiempo-legend-vi-id-shoe/?piid=42929&pbid=357230467#?pbid=357230467" >BEGIN CUSTOMIZING</a>
+                                  </div>
                               </div>
                     
                             </div>
@@ -3520,6 +3548,14 @@ nike.exp.script.device_detect = nike.exp.script.device_detect || {};
                                       class="nsg-form--drop-down exp-pdp-quantity-dropdown exp-pdp-dropdown" >
                                   <option value="1" data-label="(1)">1</option>
                                   <option value="2" data-label="(2)">2</option>
+                                  <option value="3" data-label="(3)">3</option>
+                                  <option value="4" data-label="(4)">4</option>
+                                  <option value="5" data-label="(5)">5</option>
+                                  <option value="6" data-label="(6)">6</option>
+                                  <option value="7" data-label="(7)">7</option>
+                                  <option value="8" data-label="(8)">8</option>
+                                  <option value="9" data-label="(9)">9</option>
+                                  <option value="10" data-label="(10)">10</option>
                               </select>
                             </div>
                     
@@ -3640,8 +3676,8 @@ nike.exp.script.device_detect = nike.exp.script.device_detect || {};
                     	
                     	            <form id="notify-me-form" method="post">
                     	                <input type="hidden" name="action" value="notifyMeSubmit" />
-                    	                <input type="hidden" name="itemcolor" value="002" />
-                    	                <input type="hidden" name="stylenumber" value="849783" />
+                    	                <input type="hidden" name="itemcolor" value="004" />
+                    	                <input type="hidden" name="stylenumber" value="844593" />
                     	                <input type="hidden" name="country" value="CA" />
                     	                <input type="hidden" name="locale" value="en_GB_CAD" />
                     	                <input type="hidden" name="siteid" value="" />
@@ -3650,21 +3686,21 @@ nike.exp.script.device_detect = nike.exp.script.device_detect || {};
                     	                <input type="hidden" name="skuid" value="" />
                     	
                     	                <div class="product">
-                    	                    <img class="image" src="http://images.nike.com/is/image/DotCom/PDP_THUMB/LEBRON-XIII-LOW-LMTD-849783_002_A_PREM.jpg?fmt&#x3D;jpg&amp;qty&#x3D;85&amp;wid&#x3D;140&amp;hei&#x3D;140&amp;bgc&#x3D;FFFFFF" alt="LeBron XIII Low Limited Men&#x27;s Basketball Shoe" />
+                    	                    <img class="image" src="http://images.nike.com/is/image/DotCom/PDP_THUMB/TIEMPO-LEGEND-VI-AG-PRO-844593_004_A_PREM.jpg?fmt&#x3D;jpg&amp;qty&#x3D;85&amp;wid&#x3D;140&amp;hei&#x3D;140&amp;bgc&#x3D;FFFFFF" alt="Nike Tiempo Legend VI AG-PRO Men&#x27;s Artificial-Grass Football Boot" />
                     	                    <div class="info">
                     	                        <div class="title nsg-text--dark-grey">
-                    	                          LeBron XIII Low Limited
+                    	                          Nike Tiempo Legend VI AG-PRO
                     	                        </div>
                     	                        <div class="subtitle">
-                    	                          Men&#x27;s Basketball Shoe
+                    	                          Men&#x27;s Artificial-Grass Football Boot
                     	                        </div>
                     	                        <div class="color-quantity">
-                    	                            <span class="label nsg-text--dark-grey">Colour:</span> Phantom/Neutral Olive/Turf Orange/Phantom
+                    	                            <span class="label nsg-text--dark-grey">Colour:</span> Black/Black
                     	                            <br/>
                     	                            <span class="label nsg-text--dark-grey">Qty:</span> 1 @
                     	<span class="exp-pdp-notify-me-product-price-container">                              <span class="nsg-text--nike-orange exp-pdp-product-price"  itemtype="http://schema.org/Offer" itemprop="offers" itemscope="">
                     										
-                    	                                  <span class="exp-pdp-local-price" itemprop ="price">$215</span>
+                    	                                  <span class="exp-pdp-local-price" itemprop ="price">$290</span>
                     									</span>
                     	</span>                        </div>
                     	
@@ -3673,6 +3709,34 @@ nike.exp.script.device_detect = nike.exp.script.device_detect || {};
                     	                                <a class="nsg-form--drop-down--label nsg-grad--light-grey nsg-font-family--platform" ><span class="js-selectBox-label">SIZE </span><span class="nsg-form--drop-down--selected-option"></span></a>
                     	                                <select class="nsg-form--drop-down exp-pdp-size-dropdown exp-pdp-dropdown " data-tooltiptext="Select a Size" data-error="Select a Size" required="required" >
                     	                                    <option value=""></option>
+                    	                                      <option name="skuId" value="17576431:6"
+                    	                                              data-label="(6)">
+                    	                                        6
+                    	                                      </option>
+                    	                                      <option name="skuId" value="17188879:6.5"
+                    	                                              data-label="(6.5)">
+                    	                                        6.5
+                    	                                      </option>
+                    	                                      <option name="skuId" value="16544182:11.5"
+                    	                                              data-label="(11.5)">
+                    	                                        11.5
+                    	                                      </option>
+                    	                                      <option name="skuId" value="16544184:12.5"
+                    	                                              data-label="(12.5)">
+                    	                                        12.5
+                    	                                      </option>
+                    	                                      <option name="skuId" value="16544185:13"
+                    	                                              data-label="(13)">
+                    	                                        13
+                    	                                      </option>
+                    	                                      <option name="skuId" value="16544186:14"
+                    	                                              data-label="(14)">
+                    	                                        14
+                    	                                      </option>
+                    	                                      <option name="skuId" value="16544187:15"
+                    	                                              data-label="(15)">
+                    	                                        15
+                    	                                      </option>
                     	                                </select>
                     	                            </div>
                     	                        </div>
@@ -3759,9 +3823,9 @@ nike.exp.script.device_detect = nike.exp.script.device_detect || {};
                  data-num-products="4"
                  data-event-name="product"
                  data-template="wrap_template"
-                 data-products="11221026"
+                 data-products="11056727"
                  data-country="CA"
-                 data-product-impressions="11221026"
+                 data-product-impressions="11056727,11056728"
               >
             </div>
             <div class="exp-pdp-section-divider nsg-misc-keyline--horizontal"></div>
@@ -3772,11 +3836,17 @@ nike.exp.script.device_detect = nike.exp.script.device_detect || {};
             
             <div class="exp-pdp-benefits-container">
               <div class="exp-pdp-benefits-image-container">
-                <img class="exp-pdp-benefits-image" src="http://images.nike.com/is/image/DotCom/PDP_COPY/LEBRON-XIII-LOW-LMTD-849783_002_A_PREM.jpg" data-large-image="http://images.nike.com/is/image/DotCom/PDP_COPY/LEBRON-XIII-LOW-LMTD-849783_002_A_PREM.jpg" data-small-image="http://images.nike.com/is/image/DotCom/PDP_COPY_S/LEBRON-XIII-LOW-LMTD-849783_002_A_PREM.jpg" />
+                <img class="exp-pdp-benefits-image" src="http://images.nike.com/is/image/DotCom/PDP_COPY/TIEMPO-LEGEND-VI-AG-PRO-844593_004_A_PREM.jpg" data-large-image="http://images.nike.com/is/image/DotCom/PDP_COPY/TIEMPO-LEGEND-VI-AG-PRO-844593_004_A_PREM.jpg" data-small-image="http://images.nike.com/is/image/DotCom/PDP_COPY_S/TIEMPO-LEGEND-VI-AG-PRO-844593_004_A_PREM.jpg" />
             
               </div>
               <div class="exp-pdp-benefits-text">
-                <div class="pi-tier3"><div class="pi-pdpmainbody"><p><b>EXPLOSIVE PERFORMANCE</b></p><br><p>The light, strong LeBron XIII Low Limited Men's Basketball Shoe takes after its high-top cousin with a locked-down fit and excellent cushioning&#8212;but in a sleek low-top for a lighter feel on the court.</p><br><p><b>Responsive Cushioning</b></p><p>Low-profile Nike Zoom Air units at the forefoot deliver incredibly responsive cushioning that bounces back and powers your next move.</p><br><p><b>Shock Absorption</b></p><p>A visible Max Air 180 unit in the heel offers durable impact protection for hard landings.&#160;</p><br><p><b>Flexible Support</b></p><p>A one-piece inner sleeve made of breathable mesh offers sock-like comfort, zoned support and flexibility.&#160;</p><br><p><b>More Details</b></p><li>An articulated lacing system with Flywire cables enhances lockdown during sharp cuts</li><li>Full-length Phylon midsole for lightweight cushioning</li><li>Durable rubber outsole for multidirectional, multi-surface traction</li></div></div>
+                <div class="pi-tier3"><div class="pi-pdpmainbody"><p><b>DOMINATING TOUCH STARTS FROM WITHIN</b></p><br><p>Equipped with new hidden innovations that bring your foot closer to the ball than ever, the Nike Tiempo Legend VI AG-PRO Men's Artificial-Grass Football Boot is made with non-slip technologies and premium leather to truly dominate on the pitch.</p><br><p><b>Snug Fit</b></p><p>Premium kangaroo leather upper 
+            is supported by a new internal midfoot cage to give you less slippage and unparalleled lockdown.</p><br><p><b>Dominating Touch</b></p><p>Kangaroo leather with All Conditions Control (ACC) 
+            technology provides unrivalled 
+            ball touch and consistent control 
+            in dry or wet weather.</p><br><p><b>Maximum Traction</b></p><p>Flexible plate moves with your foot 
+            for stability, traction and comfort, while conical and bladed studs enhance
+             traction and underfoot ball control.</p><br><p><b>More Details</b></p><li>AG-Pro plate maximises traction and minimises heat on artificial grass</li><li>Flexible TPU plate for added durability and stability</li><li>Internal TPU heel counter for lockdown</li><li>Moulded EVA sockliner for arch support and impact protection</li><li>Bold plate graphics help you stand out on the pitch</li><br><p><b>Artificial-Grass Plate</b></p>The lightweight artificial-grass plate features low-profile and secondary studs for enhanced perimeter traction, as well as forefoot pressure and heel-plant dispersion pads for even stud pressure as you play. It also has hollow studs and heel cushioning for increased support, an extra flex groove to help with quick transitions during games, and an extra-small grip for increased lateral support.</div></div>
               </div>
             </div>
             
@@ -3785,17 +3855,19 @@ nike.exp.script.device_detect = nike.exp.script.device_detect || {};
               <script type="text/javascript">
                 nike.global.bazaarVoiceConfigurationMap = {
                   "default" : {
-                      productId : "849783",
-                      submissionUrl : "http://store.nike.com/ca/en_gb/pd/lebron-xiii-low-limited-basketball-shoe/pid-11221026/pgid-11502150?review=true",
+                      productId : "844593",
+                      submissionUrl : "http://store.nike.com/ca/en_gb/pd/tiempo-legend-vi-ag-pro-football-boot/pid-11056727/pgid-11295131?review=true",
                       showSubmitOnLoad : false,
                       displayCode : "",
-                      apiUrl : "http://nike.ugc.bazaarvoice.com/static/9525-en_gb/bvapi.js"       },
+                      apiUrl : "http://nike.ugc.bazaarvoice.com/static/9525-en_gb/bvapi.js" ,
+                      productWidth : "REGULAR"      },
                   "Tablet": {
-                      productId : "849783",
-                      submissionUrl : "http://store.nike.com/ca/en_gb/pd/lebron-xiii-low-limited-basketball-shoe/pid-11221026/pgid-11502150?review=true",
+                      productId : "844593",
+                      submissionUrl : "http://store.nike.com/ca/en_gb/pd/tiempo-legend-vi-ag-pro-football-boot/pid-11056727/pgid-11295131?review=true",
                       showSubmitOnLoad : false,
                       displayCode : "m",
-                      apiUrl : "http://nike.ugc.bazaarvoice.com/static/9525m-en_gb/bvapi.js"       }
+                      apiUrl : "http://nike.ugc.bazaarvoice.com/static/9525m-en_gb/bvapi.js" ,
+                      productWidth : "REGULAR"      }
                 };
               </script>
               <div class="exp-pdp-section-divider nsg-misc-keyline--horizontal"></div>
@@ -3803,7 +3875,7 @@ nike.exp.script.device_detect = nike.exp.script.device_detect || {};
                 <div id="BVRRContainer">
                     <div id="BVRRSEOContainer">
                         <span class="is-hidden">
-                          <h3>LeBron XIII Low Limited Men's Basketball Shoe CUSTOMER REVIEWS</h3>
+                          <h3>Nike Tiempo Legend VI AG-PRO Men's Artificial-Grass Football Boot CUSTOMER REVIEWS</h3>
                         </span>
                     </div>
                 </div>
@@ -3813,7 +3885,7 @@ nike.exp.script.device_detect = nike.exp.script.device_detect || {};
           </div>
           
           <script id="product-data" type="template-data">
-            {"productId":"11221026","productGroupId":"11502150","displayName":"LeBron XIII Low Limited Men's Basketball Shoe","productTitle":"LeBron XIII Low Limited","productSubTitle":"Men's Basketball Shoe","pageTitle":"LeBron XIII Low Limited Men's Basketball Shoe. Nike.com CA","catalogId":"5","productSlug":"lebron-xiii-low-limited-basketball-shoe","url":"http://store.nike.com/ca/en_gb/pd/lebron-xiii-low-limited-basketball-shoe/pid-11221026/pgid-11502150","startDate":1470380400000,"builderUrl":null,"frameUtilUrl":null,"hardLaunch":true,"reviews":{"averageRating":null,"formattedAverageRating":null,"ratingRange":null,"totalReviewCount":null,"reviews":[],"reviewStatistics":null,"sortBy":null,"sortDirection":null,"hasReviews":false,"averageRatingPercentage":null},"productReviewsUrl":null,"employeeDiscountAvailable":false,"onSale":false,"localPrice":"$215","overriddenLocalPrice":null,"employeePrice":null,"overriddenEmployeePrice":null,"rawPrice":"215.0","styleNumber":"849783","colorNumber":"002","colorDescription":"Phantom/Neutral Olive/Turf Orange/Phantom","swatchColorHex":null,"inStock":true,"preOrder":false,"quantityLimit":2,"nflJersey":false,"nflPdpModel":null,"accessCode":false,"accessCodeValue":null,"accessCodeCustomMessage":null,"handle":null,"lockedSkuId":null,"unlocked":false,"notifyMe":false,"notifyMeCustomMessage":null,"showBuyingTools":true,"showSizeAndFitLink":true,"sizeAndFitGuideUrl":"mens-shoe-sizing-chart","widths":null,"imagesHeroAda":["http://images.nike.com/is/image/DotCom/PDP_P/LEBRON-XIII-LOW-LMTD-849783_002_A_PREM.png?fmt=png-alpha","http://images2.nike.com/is/image/DotCom/PDP_P/LEBRON-XIII-LOW-LMTD-849783_002_B_PREM.png?fmt=png-alpha","http://images3.nike.com/is/image/DotCom/PDP_P/LEBRON-XIII-LOW-LMTD-849783_002_C_PREM.png?fmt=png-alpha","http://images.nike.com/is/image/DotCom/PDP_P/LEBRON-XIII-LOW-LMTD-849783_002_D_PREM.png?fmt=png-alpha","http://images2.nike.com/is/image/DotCom/PDP_P/LEBRON-XIII-LOW-LMTD-849783_002_E_PREM.png?fmt=png-alpha","http://images3.nike.com/is/image/DotCom/PDP_P/LEBRON-XIII-LOW-LMTD-849783_002_F_PREM.png?fmt=png-alpha","http://images.nike.com/is/image/DotCom/PDP_P/LEBRON-XIII-LOW-LMTD-849783_002_G_PREM.png?fmt=png-alpha","http://images2.nike.com/is/image/DotCom/PDP_P/LEBRON-XIII-LOW-LMTD-849783_002_H_PREM.png?fmt=png-alpha"],"imagesHeroSmall":["http://images.nike.com/is/image/DotCom/PDP_HERO_S/LEBRON-XIII-LOW-LMTD-849783_002_A_PREM.jpg","http://images2.nike.com/is/image/DotCom/PDP_HERO_S/LEBRON-XIII-LOW-LMTD-849783_002_B_PREM.jpg","http://images3.nike.com/is/image/DotCom/PDP_HERO_S/LEBRON-XIII-LOW-LMTD-849783_002_C_PREM.jpg","http://images.nike.com/is/image/DotCom/PDP_HERO_S/LEBRON-XIII-LOW-LMTD-849783_002_D_PREM.jpg","http://images2.nike.com/is/image/DotCom/PDP_HERO_S/LEBRON-XIII-LOW-LMTD-849783_002_E_PREM.jpg","http://images3.nike.com/is/image/DotCom/PDP_HERO_S/LEBRON-XIII-LOW-LMTD-849783_002_F_PREM.jpg","http://images.nike.com/is/image/DotCom/PDP_HERO_S/LEBRON-XIII-LOW-LMTD-849783_002_G_PREM.jpg","http://images2.nike.com/is/image/DotCom/PDP_HERO_S/LEBRON-XIII-LOW-LMTD-849783_002_H_PREM.jpg"],"imagesHeroMedium":["http://images.nike.com/is/image/DotCom/PDP_HERO_M/LEBRON-XIII-LOW-LMTD-849783_002_A_PREM.jpg","http://images2.nike.com/is/image/DotCom/PDP_HERO_M/LEBRON-XIII-LOW-LMTD-849783_002_B_PREM.jpg","http://images3.nike.com/is/image/DotCom/PDP_HERO_M/LEBRON-XIII-LOW-LMTD-849783_002_C_PREM.jpg","http://images.nike.com/is/image/DotCom/PDP_HERO_M/LEBRON-XIII-LOW-LMTD-849783_002_D_PREM.jpg","http://images2.nike.com/is/image/DotCom/PDP_HERO_M/LEBRON-XIII-LOW-LMTD-849783_002_E_PREM.jpg","http://images3.nike.com/is/image/DotCom/PDP_HERO_M/LEBRON-XIII-LOW-LMTD-849783_002_F_PREM.jpg","http://images.nike.com/is/image/DotCom/PDP_HERO_M/LEBRON-XIII-LOW-LMTD-849783_002_G_PREM.jpg","http://images2.nike.com/is/image/DotCom/PDP_HERO_M/LEBRON-XIII-LOW-LMTD-849783_002_H_PREM.jpg"],"imagesHeroLarge":["http://images.nike.com/is/image/DotCom/PDP_HERO/LEBRON-XIII-LOW-LMTD-849783_002_A_PREM.jpg","http://images2.nike.com/is/image/DotCom/PDP_HERO/LEBRON-XIII-LOW-LMTD-849783_002_B_PREM.jpg","http://images3.nike.com/is/image/DotCom/PDP_HERO/LEBRON-XIII-LOW-LMTD-849783_002_C_PREM.jpg","http://images.nike.com/is/image/DotCom/PDP_HERO/LEBRON-XIII-LOW-LMTD-849783_002_D_PREM.jpg","http://images2.nike.com/is/image/DotCom/PDP_HERO/LEBRON-XIII-LOW-LMTD-849783_002_E_PREM.jpg","http://images3.nike.com/is/image/DotCom/PDP_HERO/LEBRON-XIII-LOW-LMTD-849783_002_F_PREM.jpg","http://images.nike.com/is/image/DotCom/PDP_HERO/LEBRON-XIII-LOW-LMTD-849783_002_G_PREM.jpg","http://images2.nike.com/is/image/DotCom/PDP_HERO/LEBRON-XIII-LOW-LMTD-849783_002_H_PREM.jpg"],"imagesHeroRetina":null,"imagesHeroZoom":["http://images.nike.com/is/image/DotCom/PDP_HERO_ZOOM/LEBRON-XIII-LOW-LMTD-849783_002_A_PREM.jpg","http://images2.nike.com/is/image/DotCom/PDP_HERO_ZOOM/LEBRON-XIII-LOW-LMTD-849783_002_B_PREM.jpg","http://images3.nike.com/is/image/DotCom/PDP_HERO_ZOOM/LEBRON-XIII-LOW-LMTD-849783_002_C_PREM.jpg","http://images.nike.com/is/image/DotCom/PDP_HERO_ZOOM/LEBRON-XIII-LOW-LMTD-849783_002_D_PREM.jpg","http://images2.nike.com/is/image/DotCom/PDP_HERO_ZOOM/LEBRON-XIII-LOW-LMTD-849783_002_E_PREM.jpg","http://images3.nike.com/is/image/DotCom/PDP_HERO_ZOOM/LEBRON-XIII-LOW-LMTD-849783_002_F_PREM.jpg","http://images.nike.com/is/image/DotCom/PDP_HERO_ZOOM/LEBRON-XIII-LOW-LMTD-849783_002_G_PREM.jpg","http://images2.nike.com/is/image/DotCom/PDP_HERO_ZOOM/LEBRON-XIII-LOW-LMTD-849783_002_H_PREM.jpg"],"imagesThumbnail":["http://images.nike.com/is/image/DotCom/PDP_THUMB/LEBRON-XIII-LOW-LMTD-849783_002_A_PREM.jpg","http://images2.nike.com/is/image/DotCom/PDP_THUMB/LEBRON-XIII-LOW-LMTD-849783_002_B_PREM.jpg","http://images3.nike.com/is/image/DotCom/PDP_THUMB/LEBRON-XIII-LOW-LMTD-849783_002_C_PREM.jpg","http://images.nike.com/is/image/DotCom/PDP_THUMB/LEBRON-XIII-LOW-LMTD-849783_002_D_PREM.jpg","http://images2.nike.com/is/image/DotCom/PDP_THUMB/LEBRON-XIII-LOW-LMTD-849783_002_E_PREM.jpg","http://images3.nike.com/is/image/DotCom/PDP_THUMB/LEBRON-XIII-LOW-LMTD-849783_002_F_PREM.jpg","http://images.nike.com/is/image/DotCom/PDP_THUMB/LEBRON-XIII-LOW-LMTD-849783_002_G_PREM.jpg","http://images2.nike.com/is/image/DotCom/PDP_THUMB/LEBRON-XIII-LOW-LMTD-849783_002_H_PREM.jpg"],"imagesThumbnailAda":["http://images.nike.com/is/image/DotCom/PHN_PS/LEBRON-XIII-LOW-LMTD-849783_002_A_PREM.png?fmt=png-alpha","http://images2.nike.com/is/image/DotCom/PHN_PS/LEBRON-XIII-LOW-LMTD-849783_002_B_PREM.png?fmt=png-alpha","http://images3.nike.com/is/image/DotCom/PHN_PS/LEBRON-XIII-LOW-LMTD-849783_002_C_PREM.png?fmt=png-alpha","http://images.nike.com/is/image/DotCom/PHN_PS/LEBRON-XIII-LOW-LMTD-849783_002_D_PREM.png?fmt=png-alpha","http://images2.nike.com/is/image/DotCom/PHN_PS/LEBRON-XIII-LOW-LMTD-849783_002_E_PREM.png?fmt=png-alpha","http://images3.nike.com/is/image/DotCom/PHN_PS/LEBRON-XIII-LOW-LMTD-849783_002_F_PREM.png?fmt=png-alpha","http://images.nike.com/is/image/DotCom/PHN_PS/LEBRON-XIII-LOW-LMTD-849783_002_G_PREM.png?fmt=png-alpha","http://images2.nike.com/is/image/DotCom/PHN_PS/LEBRON-XIII-LOW-LMTD-849783_002_H_PREM.png?fmt=png-alpha"],"imagesThumbnailRetina":null,"imagesPrebuilds":null,"imagesDPiD":null,"prebuilds":null,"prebuildId":null,"imagesCopySmall":"http://images.nike.com/is/image/DotCom/PDP_COPY_S/LEBRON-XIII-LOW-LMTD-849783_002_A_PREM.jpg","imagesCopyLarge":"http://images.nike.com/is/image/DotCom/PDP_COPY/LEBRON-XIII-LOW-LMTD-849783_002_A_PREM.jpg","chat":null,"taxDisclaimer":false,"showRecyclingMessage":false,"socialButtons":[{"socialNetwork":"facebook","action":"like","dataAttributes":{"url":"http://store.nike.com/ca/en_gb/pd/lebron-xiii-low-limited-basketball-shoe/pid-11221026/pgid-11502150?cp=euns_soc_101511_fbshare","type":"static"}},{"socialNetwork":"twitter","action":"tweet","dataAttributes":{"url":"http://store.nike.com/ca/en_gb/pd/lebron-xiii-low-limited-basketball-shoe/pid-11221026/pgid-11502150?cp=euns_soc_101511_twitshare","type":"static","text":"LeBron XIII Low Limited Men's Basketball Shoe"}},{"socialNetwork":"pinterest","action":"pinit","dataAttributes":{"pic":"http://images.nike.com/is/image/DotCom/THN_PS/LEBRON-XIII-LOW-LMTD-849783_002.jpg?hei=300&wid=400&fmt=png","url":"http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fstore.nike.com%2Fca%2Fen_gb%2Fpd%2Flebron-xiii-low-limited-basketball-shoe%2Fpid-11221026%2Fpgid-11502150%3Fcp%3Deuns_soc_042213_pinshare&media=http%3A%2F%2Fimages.nike.com%2Fis%2Fimage%2FDotCom%2FTHN_PS%2FLEBRON-XIII-LOW-LMTD-849783_002.jpg%3Fhei%3D300%26wid%3D400%26fmt%3Dpng&description=LeBron+XIII+Low+Limited+Men%27s+Basketball+Shoe","type":"static","text":"LeBron XIII Low Limited Men's Basketball Shoe"}}],"emailButton":null,"inStockColorways":[{"productId":"11221026","productGroupId":"11502150","styleNumber":"849783","url":"http://store.nike.com/ca/en_gb/pd/lebron-xiii-low-limited-basketball-shoe/pid-11221026/pgid-11502150","imageUrl":"http://images.nike.com/is/image/DotCom/PDP_THUMB/LeBron-XIII-Low-Limited-849783_002.jpg","imageUrlRetina":"http://images.nike.com/is/image/DotCom/PDP_THUMB_RETINA/LeBron-XIII-Low-Limited-849783_002.jpg","swatchColorHex":null,"colorNumber":"002","simpleColor":null,"colorDescription":"Phantom/Neutral Olive/Turf Orange/Phantom","status":"IN_STOCK","startDate":1470380400000,"mainColorway":true,"selected":true,"message":null,"comparatorChain":{"locked":false}}],"outOfStockColorways":null,"comingSoonColorways":null,"preOrderColorways":null,"prebuildCTA":null,"skuContainer":{"id":"11221026","displaySizeType":"US","displaySizeTypeLabel":"US","productSkus":[{"id":"17359832","sizeDescription":"7","inStock":true,"displaySize":"7","sku":"17359832"},{"id":"17359833","sizeDescription":"7.5","inStock":true,"displaySize":"7.5","sku":"17359833"},{"id":"17359817","sizeDescription":"8","inStock":true,"displaySize":"8","sku":"17359817"},{"id":"17359819","sizeDescription":"8.5","inStock":true,"displaySize":"8.5","sku":"17359819"},{"id":"17359826","sizeDescription":"9","inStock":true,"displaySize":"9","sku":"17359826"},{"id":"17359829","sizeDescription":"9.5","inStock":true,"displaySize":"9.5","sku":"17359829"},{"id":"17359820","sizeDescription":"10","inStock":true,"displaySize":"10","sku":"17359820"},{"id":"17359823","sizeDescription":"10.5","inStock":true,"displaySize":"10.5","sku":"17359823"},{"id":"17359812","sizeDescription":"11","inStock":true,"displaySize":"11","sku":"17359812"},{"id":"17359809","sizeDescription":"11.5","inStock":true,"displaySize":"11.5","sku":"17359809"},{"id":"17359825","sizeDescription":"12","inStock":true,"displaySize":"12","sku":"17359825"},{"id":"17359821","sizeDescription":"12.5","inStock":true,"displaySize":"12.5","sku":"17359821"},{"id":"17359811","sizeDescription":"13","inStock":true,"displaySize":"13","sku":"17359811"},{"id":"17359813","sizeDescription":"13.5","inStock":true,"displaySize":"13.5","sku":"17359813"},{"id":"17359822","sizeDescription":"14","inStock":true,"displaySize":"14","sku":"17359822"},{"id":"17359810","sizeDescription":"15","inStock":true,"displaySize":"15","sku":"17359810"}],"inStock":true,"searchString":"11221026","multiSku":true},"legacySizeFitChart":null,"showOutOfStockMessage":false,"showComingSoonForOutOfStock":false,"showComingSoonMessage":false,"showPreOrderMessage":false,"outOfStockMessage":null,"comingSoonMessage":null,"preOrderMessage":null,"standardPreOrderMessage":"Order now and be one of the first to get it. Pre-orders ship {1,date,MMMMM d}. Standard shipping times apply.","colorwayGeneralMessage":null,"showColorWays":true,"trackingData":{"product":{"productId":"11221026","sku":null,"name":"LeBron XIII Low Limited Men's Basketball Shoe","category":"Footwear","inStock":true,"price":215,"onSale":false,"qty":null,"siteId":null,"rating":null,"ratingCount":null,"isNikeId":false,"gender":"6","league":null,"pathName":null,"isLocked":false,"unlocalizedName":"LEBRON XIII LOW LMTD","preBuildId":null,"loadType":null,"comingSoon":false,"preOrder":false},"inlineProductIds":["11221026"],"nikeIdProductIds":[],"sizeRun":"7:y|7.5:y|8:y|8.5:y|9:y|9.5:y|10:y|10.5:y|11:y|11.5:y|12:y|12.5:y|13:y|13.5:y|14:y|15:y","primarySportName":"Basketball","heatLevel":null,"hasImageBadge":false,"hasPrebuildCTA":false},"comingSoonLabel":"Coming Soon","customSizeLabel":null,"jerseyIdSku":null,"jerseyIdPath":null,"comingSoonCountdownClock":false,"productType":"Footwear","footwear":true,"primarySport":"Basketball","personalization":null,"productGroupIsPersonalizable":false,"previewTime":0,"customizationProductAvailability":null,"content":"<div class=\"pi-tier3\"><div class=\"pi-pdpmainbody\"><p><b>EXPLOSIVE PERFORMANCE</b></p><br><p>The light, strong LeBron XIII Low Limited Men's Basketball Shoe takes after its high-top cousin with a locked-down fit and excellent cushioning&#8212;but in a sleek low-top for a lighter feel on the court.</p><br><p><b>Responsive Cushioning</b></p><p>Low-profile Nike Zoom Air units at the forefoot deliver incredibly responsive cushioning that bounces back and powers your next move.</p><br><p><b>Shock Absorption</b></p><p>A visible Max Air 180 unit in the heel offers durable impact protection for hard landings.&#160;</p><br><p><b>Flexible Support</b></p><p>A one-piece inner sleeve made of breathable mesh offers sock-like comfort, zoned support and flexibility.&#160;</p><br><p><b>More Details</b></p><li>An articulated lacing system with Flywire cables enhances lockdown during sharp cuts</li><li>Full-length Phylon midsole for lightweight cushioning</li><li>Durable rubber outsole for multidirectional, multi-surface traction</li></div></div>","summaryVideo":null,"techSpecs":null,"countryOfOrigin":null,"desktopBazaarVoiceConfiguration":{"apiUrl":"http://nike.ugc.bazaarvoice.com/static/9525-en_gb/bvapi.js","submissionUrl":"http://store.nike.com/ca/en_gb/pd/lebron-xiii-low-limited-basketball-shoe/pid-11221026/pgid-11502150?review=true","productId":"849783","displayCode":"","productWidth":null,"showSubmit":"false","attributes":null,"showReviewSubmit":false},"tabletBazaarVoiceConfiguration":{"apiUrl":"http://nike.ugc.bazaarvoice.com/static/9525m-en_gb/bvapi.js","submissionUrl":"http://store.nike.com/ca/en_gb/pd/lebron-xiii-low-limited-basketball-shoe/pid-11221026/pgid-11502150?review=true","productId":"849783","displayCode":"m","productWidth":null,"showSubmit":"false","attributes":null,"showReviewSubmit":false},"featuredTechnology":null,"crossSellConfiguration":{"language":"en","currency":"CAD","country":"CA","nflTeamName":null,"numProducts":4,"schemeName":"product_rr","productId":"11221026","colorwayProductIds":["11221026"]},"digitalPiD":false,"multipleImages":true,"thumbnailUrl":"http://images.nike.com/is/image/DotCom/PDP_THUMB/LEBRON-XIII-LOW-LMTD-849783_002_A_PREM.jpg","notifiableSkus":[]}
+            {"productId":"11056727","productGroupId":"11295131","displayName":"Nike Tiempo Legend VI AG-PRO Men's Artificial-Grass Football Boot","productTitle":"Nike Tiempo Legend VI AG-PRO","productSubTitle":"Men's Artificial-Grass Football Boot","pageTitle":"Nike Tiempo Legend VI AG-PRO Men's Artificial-Grass Football Boot. Nike.com CA","catalogId":"5","productSlug":"tiempo-legend-vi-ag-pro-football-boot","url":"http://store.nike.com/ca/en_gb/pd/tiempo-legend-vi-ag-pro-football-boot/pid-11056727/pgid-11295131","startDate":1467702000000,"builderUrl":null,"frameUtilUrl":null,"hardLaunch":true,"reviews":{"averageRating":null,"formattedAverageRating":null,"ratingRange":null,"totalReviewCount":null,"reviews":[],"reviewStatistics":null,"sortBy":null,"sortDirection":null,"hasReviews":false,"averageRatingPercentage":null},"productReviewsUrl":null,"employeeDiscountAvailable":false,"onSale":false,"localPrice":"$290","overriddenLocalPrice":null,"employeePrice":null,"overriddenEmployeePrice":null,"rawPrice":"290.0","styleNumber":"844593","colorNumber":"004","colorDescription":"Black/Black","swatchColorHex":null,"inStock":true,"preOrder":false,"quantityLimit":10,"nflJersey":false,"nflPdpModel":null,"accessCode":false,"accessCodeValue":null,"accessCodeCustomMessage":null,"handle":null,"lockedSkuId":null,"unlocked":false,"notifyMe":false,"notifyMeCustomMessage":null,"showBuyingTools":true,"showSizeAndFitLink":true,"sizeAndFitGuideUrl":"mens-shoe-sizing-chart","widths":null,"imagesHeroAda":["http://images.nike.com/is/image/DotCom/PDP_P/TIEMPO-LEGEND-VI-AG-PRO-844593_004_A_PREM.png?fmt=png-alpha","http://images2.nike.com/is/image/DotCom/PDP_P/TIEMPO-LEGEND-VI-AG-PRO-844593_004_B_PREM.png?fmt=png-alpha","http://images3.nike.com/is/image/DotCom/PDP_P/TIEMPO-LEGEND-VI-AG-PRO-844593_004_C_PREM.png?fmt=png-alpha","http://images.nike.com/is/image/DotCom/PDP_P/TIEMPO-LEGEND-VI-AG-PRO-844593_004_D_PREM.png?fmt=png-alpha","http://images2.nike.com/is/image/DotCom/PDP_P/TIEMPO-LEGEND-VI-AG-PRO-844593_004_E_PREM.png?fmt=png-alpha","http://images3.nike.com/is/image/DotCom/PDP_P/TIEMPO-LEGEND-VI-AG-PRO-844593_004_F_PREM.png?fmt=png-alpha","http://images.nike.com/is/image/DotCom/PDP_P/TIEMPO-LEGEND-VI-AG-PRO-844593_004_G_PREM.png?fmt=png-alpha","http://images2.nike.com/is/image/DotCom/PDP_P/TIEMPO-LEGEND-VI-AG-PRO-844593_004_H_PREM.png?fmt=png-alpha"],"imagesHeroSmall":["http://images.nike.com/is/image/DotCom/PDP_HERO_S/TIEMPO-LEGEND-VI-AG-PRO-844593_004_A_PREM.jpg","http://images2.nike.com/is/image/DotCom/PDP_HERO_S/TIEMPO-LEGEND-VI-AG-PRO-844593_004_B_PREM.jpg","http://images3.nike.com/is/image/DotCom/PDP_HERO_S/TIEMPO-LEGEND-VI-AG-PRO-844593_004_C_PREM.jpg","http://images.nike.com/is/image/DotCom/PDP_HERO_S/TIEMPO-LEGEND-VI-AG-PRO-844593_004_D_PREM.jpg","http://images2.nike.com/is/image/DotCom/PDP_HERO_S/TIEMPO-LEGEND-VI-AG-PRO-844593_004_E_PREM.jpg","http://images3.nike.com/is/image/DotCom/PDP_HERO_S/TIEMPO-LEGEND-VI-AG-PRO-844593_004_F_PREM.jpg","http://images.nike.com/is/image/DotCom/PDP_HERO_S/TIEMPO-LEGEND-VI-AG-PRO-844593_004_G_PREM.jpg","http://images2.nike.com/is/image/DotCom/PDP_HERO_S/TIEMPO-LEGEND-VI-AG-PRO-844593_004_H_PREM.jpg"],"imagesHeroMedium":["http://images.nike.com/is/image/DotCom/PDP_HERO_M/TIEMPO-LEGEND-VI-AG-PRO-844593_004_A_PREM.jpg","http://images2.nike.com/is/image/DotCom/PDP_HERO_M/TIEMPO-LEGEND-VI-AG-PRO-844593_004_B_PREM.jpg","http://images3.nike.com/is/image/DotCom/PDP_HERO_M/TIEMPO-LEGEND-VI-AG-PRO-844593_004_C_PREM.jpg","http://images.nike.com/is/image/DotCom/PDP_HERO_M/TIEMPO-LEGEND-VI-AG-PRO-844593_004_D_PREM.jpg","http://images2.nike.com/is/image/DotCom/PDP_HERO_M/TIEMPO-LEGEND-VI-AG-PRO-844593_004_E_PREM.jpg","http://images3.nike.com/is/image/DotCom/PDP_HERO_M/TIEMPO-LEGEND-VI-AG-PRO-844593_004_F_PREM.jpg","http://images.nike.com/is/image/DotCom/PDP_HERO_M/TIEMPO-LEGEND-VI-AG-PRO-844593_004_G_PREM.jpg","http://images2.nike.com/is/image/DotCom/PDP_HERO_M/TIEMPO-LEGEND-VI-AG-PRO-844593_004_H_PREM.jpg"],"imagesHeroLarge":["http://images.nike.com/is/image/DotCom/PDP_HERO/TIEMPO-LEGEND-VI-AG-PRO-844593_004_A_PREM.jpg","http://images2.nike.com/is/image/DotCom/PDP_HERO/TIEMPO-LEGEND-VI-AG-PRO-844593_004_B_PREM.jpg","http://images3.nike.com/is/image/DotCom/PDP_HERO/TIEMPO-LEGEND-VI-AG-PRO-844593_004_C_PREM.jpg","http://images.nike.com/is/image/DotCom/PDP_HERO/TIEMPO-LEGEND-VI-AG-PRO-844593_004_D_PREM.jpg","http://images2.nike.com/is/image/DotCom/PDP_HERO/TIEMPO-LEGEND-VI-AG-PRO-844593_004_E_PREM.jpg","http://images3.nike.com/is/image/DotCom/PDP_HERO/TIEMPO-LEGEND-VI-AG-PRO-844593_004_F_PREM.jpg","http://images.nike.com/is/image/DotCom/PDP_HERO/TIEMPO-LEGEND-VI-AG-PRO-844593_004_G_PREM.jpg","http://images2.nike.com/is/image/DotCom/PDP_HERO/TIEMPO-LEGEND-VI-AG-PRO-844593_004_H_PREM.jpg"],"imagesHeroRetina":null,"imagesHeroZoom":["http://images.nike.com/is/image/DotCom/PDP_HERO_ZOOM/TIEMPO-LEGEND-VI-AG-PRO-844593_004_A_PREM.jpg","http://images2.nike.com/is/image/DotCom/PDP_HERO_ZOOM/TIEMPO-LEGEND-VI-AG-PRO-844593_004_B_PREM.jpg","http://images3.nike.com/is/image/DotCom/PDP_HERO_ZOOM/TIEMPO-LEGEND-VI-AG-PRO-844593_004_C_PREM.jpg","http://images.nike.com/is/image/DotCom/PDP_HERO_ZOOM/TIEMPO-LEGEND-VI-AG-PRO-844593_004_D_PREM.jpg","http://images2.nike.com/is/image/DotCom/PDP_HERO_ZOOM/TIEMPO-LEGEND-VI-AG-PRO-844593_004_E_PREM.jpg","http://images3.nike.com/is/image/DotCom/PDP_HERO_ZOOM/TIEMPO-LEGEND-VI-AG-PRO-844593_004_F_PREM.jpg","http://images.nike.com/is/image/DotCom/PDP_HERO_ZOOM/TIEMPO-LEGEND-VI-AG-PRO-844593_004_G_PREM.jpg","http://images2.nike.com/is/image/DotCom/PDP_HERO_ZOOM/TIEMPO-LEGEND-VI-AG-PRO-844593_004_H_PREM.jpg"],"imagesThumbnail":["http://images.nike.com/is/image/DotCom/PDP_THUMB/TIEMPO-LEGEND-VI-AG-PRO-844593_004_A_PREM.jpg","http://images2.nike.com/is/image/DotCom/PDP_THUMB/TIEMPO-LEGEND-VI-AG-PRO-844593_004_B_PREM.jpg","http://images3.nike.com/is/image/DotCom/PDP_THUMB/TIEMPO-LEGEND-VI-AG-PRO-844593_004_C_PREM.jpg","http://images.nike.com/is/image/DotCom/PDP_THUMB/TIEMPO-LEGEND-VI-AG-PRO-844593_004_D_PREM.jpg","http://images2.nike.com/is/image/DotCom/PDP_THUMB/TIEMPO-LEGEND-VI-AG-PRO-844593_004_E_PREM.jpg","http://images3.nike.com/is/image/DotCom/PDP_THUMB/TIEMPO-LEGEND-VI-AG-PRO-844593_004_F_PREM.jpg","http://images.nike.com/is/image/DotCom/PDP_THUMB/TIEMPO-LEGEND-VI-AG-PRO-844593_004_G_PREM.jpg","http://images2.nike.com/is/image/DotCom/PDP_THUMB/TIEMPO-LEGEND-VI-AG-PRO-844593_004_H_PREM.jpg"],"imagesThumbnailAda":["http://images.nike.com/is/image/DotCom/PHN_PS/TIEMPO-LEGEND-VI-AG-PRO-844593_004_A_PREM.png?fmt=png-alpha","http://images2.nike.com/is/image/DotCom/PHN_PS/TIEMPO-LEGEND-VI-AG-PRO-844593_004_B_PREM.png?fmt=png-alpha","http://images3.nike.com/is/image/DotCom/PHN_PS/TIEMPO-LEGEND-VI-AG-PRO-844593_004_C_PREM.png?fmt=png-alpha","http://images.nike.com/is/image/DotCom/PHN_PS/TIEMPO-LEGEND-VI-AG-PRO-844593_004_D_PREM.png?fmt=png-alpha","http://images2.nike.com/is/image/DotCom/PHN_PS/TIEMPO-LEGEND-VI-AG-PRO-844593_004_E_PREM.png?fmt=png-alpha","http://images3.nike.com/is/image/DotCom/PHN_PS/TIEMPO-LEGEND-VI-AG-PRO-844593_004_F_PREM.png?fmt=png-alpha","http://images.nike.com/is/image/DotCom/PHN_PS/TIEMPO-LEGEND-VI-AG-PRO-844593_004_G_PREM.png?fmt=png-alpha","http://images2.nike.com/is/image/DotCom/PHN_PS/TIEMPO-LEGEND-VI-AG-PRO-844593_004_H_PREM.png?fmt=png-alpha"],"imagesThumbnailRetina":null,"imagesPrebuilds":null,"imagesDPiD":null,"prebuilds":null,"prebuildId":null,"imagesCopySmall":"http://images.nike.com/is/image/DotCom/PDP_COPY_S/TIEMPO-LEGEND-VI-AG-PRO-844593_004_A_PREM.jpg","imagesCopyLarge":"http://images.nike.com/is/image/DotCom/PDP_COPY/TIEMPO-LEGEND-VI-AG-PRO-844593_004_A_PREM.jpg","chat":null,"taxDisclaimer":false,"showRecyclingMessage":false,"socialButtons":[{"socialNetwork":"facebook","action":"like","dataAttributes":{"type":"static","url":"http://store.nike.com/ca/en_gb/pd/tiempo-legend-vi-ag-pro-football-boot/pid-11056727/pgid-11295131?cp=euns_soc_101511_fbshare"}},{"socialNetwork":"twitter","action":"tweet","dataAttributes":{"type":"static","url":"http://store.nike.com/ca/en_gb/pd/tiempo-legend-vi-ag-pro-football-boot/pid-11056727/pgid-11295131?cp=euns_soc_101511_twitshare","text":"Nike Tiempo Legend VI AG-PRO Men's Artificial-Grass Football Boot"}},{"socialNetwork":"pinterest","action":"pinit","dataAttributes":{"type":"static","url":"http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fstore.nike.com%2Fca%2Fen_gb%2Fpd%2Ftiempo-legend-vi-ag-pro-football-boot%2Fpid-11056727%2Fpgid-11295131%3Fcp%3Deuns_soc_042213_pinshare&media=http%3A%2F%2Fimages.nike.com%2Fis%2Fimage%2FDotCom%2FTHN_PS%2FTIEMPO-LEGEND-VI-AG-PRO-844593_004.jpg%3Fhei%3D300%26wid%3D400%26fmt%3Dpng&description=Nike+Tiempo+Legend+VI+AG-PRO+Men%27s+Artificial-Grass+Football+Boot","text":"Nike Tiempo Legend VI AG-PRO Men's Artificial-Grass Football Boot","pic":"http://images.nike.com/is/image/DotCom/THN_PS/TIEMPO-LEGEND-VI-AG-PRO-844593_004.jpg?hei=300&wid=400&fmt=png"}}],"emailButton":null,"inStockColorways":[{"productId":"11056727","productGroupId":"11295131","styleNumber":"844593","url":"http://store.nike.com/ca/en_gb/pd/tiempo-legend-vi-ag-pro-football-boot/pid-11056727/pgid-11295131","imageUrl":"http://images.nike.com/is/image/DotCom/PDP_THUMB/Nike-Tiempo-Legend-VI-AG-PRO-844593_004.jpg","imageUrlRetina":"http://images.nike.com/is/image/DotCom/PDP_THUMB_RETINA/Nike-Tiempo-Legend-VI-AG-PRO-844593_004.jpg","swatchColorHex":null,"colorNumber":"004","simpleColor":"Black","colorDescription":"Black/Black","status":"IN_STOCK","startDate":1467702000000,"mainColorway":true,"selected":true,"message":null,"comparatorChain":{"locked":false}},{"productId":"11056728","productGroupId":"11295131","styleNumber":"844593","url":"http://store.nike.com/ca/en_gb/pd/tiempo-legend-vi-ag-pro-football-boot/pid-11056728/pgid-11295131","imageUrl":"http://images.nike.com/is/image/DotCom/PDP_THUMB/Nike-Tiempo-Legend-VI-AG-PRO-844593_005.jpg","imageUrlRetina":"http://images.nike.com/is/image/DotCom/PDP_THUMB_RETINA/Nike-Tiempo-Legend-VI-AG-PRO-844593_005.jpg","swatchColorHex":null,"colorNumber":"005","simpleColor":"Grey","colorDescription":"Wolf Grey/Clear Jade/Hyper Turquoise/Black","status":"IN_STOCK","startDate":1471158000000,"mainColorway":false,"selected":false,"message":null,"comparatorChain":{"locked":false}}],"outOfStockColorways":null,"comingSoonColorways":null,"preOrderColorways":null,"prebuildCTA":{"url":"http://store.nike.com/ca/en_gb/product/tiempo-legend-vi-id-shoe/?piid=42929&pbid=357230467#?pbid=357230467","imageUrls":[]},"skuContainer":{"id":"11056727","displaySizeType":"US","displaySizeTypeLabel":"US","productSkus":[{"id":"17576431","sizeDescription":"6","inStock":false,"displaySize":"6","sku":"17576431"},{"id":"17188879","sizeDescription":"6.5","inStock":false,"displaySize":"6.5","sku":"17188879"},{"id":"16544188","sizeDescription":"7","inStock":true,"displaySize":"7","sku":"16544188"},{"id":"16544189","sizeDescription":"7.5","inStock":true,"displaySize":"7.5","sku":"16544189"},{"id":"16544190","sizeDescription":"8","inStock":true,"displaySize":"8","sku":"16544190"},{"id":"16544191","sizeDescription":"8.5","inStock":true,"displaySize":"8.5","sku":"16544191"},{"id":"16544192","sizeDescription":"9","inStock":true,"displaySize":"9","sku":"16544192"},{"id":"16544193","sizeDescription":"9.5","inStock":true,"displaySize":"9.5","sku":"16544193"},{"id":"16544194","sizeDescription":"10","inStock":true,"displaySize":"10","sku":"16544194"},{"id":"16544180","sizeDescription":"10.5","inStock":true,"displaySize":"10.5","sku":"16544180"},{"id":"16544181","sizeDescription":"11","inStock":true,"displaySize":"11","sku":"16544181"},{"id":"16544182","sizeDescription":"11.5","inStock":false,"displaySize":"11.5","sku":"16544182"},{"id":"16544183","sizeDescription":"12","inStock":true,"displaySize":"12","sku":"16544183"},{"id":"16544184","sizeDescription":"12.5","inStock":false,"displaySize":"12.5","sku":"16544184"},{"id":"16544185","sizeDescription":"13","inStock":false,"displaySize":"13","sku":"16544185"},{"id":"16544186","sizeDescription":"14","inStock":false,"displaySize":"14","sku":"16544186"},{"id":"16544187","sizeDescription":"15","inStock":false,"displaySize":"15","sku":"16544187"}],"inStock":true,"searchString":"11056727","multiSku":true},"legacySizeFitChart":null,"showOutOfStockMessage":false,"showComingSoonForOutOfStock":false,"showComingSoonMessage":false,"showPreOrderMessage":false,"outOfStockMessage":null,"comingSoonMessage":null,"preOrderMessage":null,"standardPreOrderMessage":"Order now and be one of the first to get it. Pre-orders ship {1,date,MMMMM d}. Standard shipping times apply.","colorwayGeneralMessage":null,"showColorWays":true,"trackingData":{"product":{"productId":"11056727","sku":null,"name":"Nike Tiempo Legend VI AG-PRO Men's Artificial-Grass Football Boot","category":"Footwear","inStock":true,"price":290,"onSale":false,"qty":null,"siteId":null,"rating":null,"ratingCount":null,"isNikeId":false,"gender":"6","league":null,"pathName":null,"isLocked":false,"unlocalizedName":"TIEMPO LEGEND VI AG-PRO","preBuildId":null,"loadType":null,"comingSoon":false,"preOrder":false},"inlineProductIds":["11056727","11056728"],"nikeIdProductIds":[],"sizeRun":"6:n|6.5:n|7:y|7.5:y|8:y|8.5:y|9:y|9.5:y|10:y|10.5:y|11:y|11.5:n|12:y|12.5:n|13:n|14:n|15:n","primarySportName":"Football","heatLevel":null,"hasImageBadge":false,"hasPrebuildCTA":true},"comingSoonLabel":"Coming Soon","customSizeLabel":null,"jerseyIdSku":null,"jerseyIdPath":null,"comingSoonCountdownClock":false,"productType":"Footwear","footwear":true,"primarySport":"Football","personalization":null,"productGroupIsPersonalizable":false,"previewTime":0,"customizationProductAvailability":null,"content":"<div class=\"pi-tier3\"><div class=\"pi-pdpmainbody\"><p><b>DOMINATING TOUCH STARTS FROM WITHIN</b></p><br><p>Equipped with new hidden innovations that bring your foot closer to the ball than ever, the Nike Tiempo Legend VI AG-PRO Men's Artificial-Grass Football Boot is made with non-slip technologies and premium leather to truly dominate on the pitch.</p><br><p><b>Snug Fit</b></p><p>Premium kangaroo leather upper \nis supported by a new internal midfoot cage to give you less slippage and unparalleled lockdown.</p><br><p><b>Dominating Touch</b></p><p>Kangaroo leather with All Conditions Control (ACC) \ntechnology provides unrivalled \nball touch and consistent control \nin dry or wet weather.</p><br><p><b>Maximum Traction</b></p><p>Flexible plate moves with your foot \nfor stability, traction and comfort, while conical and bladed studs enhance\n traction and underfoot ball control.</p><br><p><b>More Details</b></p><li>AG-Pro plate maximises traction and minimises heat on artificial grass</li><li>Flexible TPU plate for added durability and stability</li><li>Internal TPU heel counter for lockdown</li><li>Moulded EVA sockliner for arch support and impact protection</li><li>Bold plate graphics help you stand out on the pitch</li><br><p><b>Artificial-Grass Plate</b></p>The lightweight artificial-grass plate features low-profile and secondary studs for enhanced perimeter traction, as well as forefoot pressure and heel-plant dispersion pads for even stud pressure as you play. It also has hollow studs and heel cushioning for increased support, an extra flex groove to help with quick transitions during games, and an extra-small grip for increased lateral support.</div></div>","summaryVideo":null,"techSpecs":null,"countryOfOrigin":null,"desktopBazaarVoiceConfiguration":{"apiUrl":"http://nike.ugc.bazaarvoice.com/static/9525-en_gb/bvapi.js","submissionUrl":"http://store.nike.com/ca/en_gb/pd/tiempo-legend-vi-ag-pro-football-boot/pid-11056727/pgid-11295131?review=true","productId":"844593","displayCode":"","productWidth":"REGULAR","showSubmit":"false","attributes":null,"showReviewSubmit":false},"tabletBazaarVoiceConfiguration":{"apiUrl":"http://nike.ugc.bazaarvoice.com/static/9525m-en_gb/bvapi.js","submissionUrl":"http://store.nike.com/ca/en_gb/pd/tiempo-legend-vi-ag-pro-football-boot/pid-11056727/pgid-11295131?review=true","productId":"844593","displayCode":"m","productWidth":"REGULAR","showSubmit":"false","attributes":null,"showReviewSubmit":false},"featuredTechnology":null,"crossSellConfiguration":{"language":"en","currency":"CAD","country":"CA","nflTeamName":null,"numProducts":4,"schemeName":"product_rr","productId":"11056727","colorwayProductIds":["11056727","11056728"]},"digitalPiD":false,"multipleImages":true,"thumbnailUrl":"http://images.nike.com/is/image/DotCom/PDP_THUMB/TIEMPO-LEGEND-VI-AG-PRO-844593_004_A_PREM.jpg","notifiableSkus":[{"id":"17576431","sizeDescription":"6","inStock":false,"displaySize":"6","sku":"17576431"},{"id":"17188879","sizeDescription":"6.5","inStock":false,"displaySize":"6.5","sku":"17188879"},{"id":"16544182","sizeDescription":"11.5","inStock":false,"displaySize":"11.5","sku":"16544182"},{"id":"16544184","sizeDescription":"12.5","inStock":false,"displaySize":"12.5","sku":"16544184"},{"id":"16544185","sizeDescription":"13","inStock":false,"displaySize":"13","sku":"16544185"},{"id":"16544186","sizeDescription":"14","inStock":false,"displaySize":"14","sku":"16544186"},{"id":"16544187","sizeDescription":"15","inStock":false,"displaySize":"15","sku":"16544187"}]}
           </script>
         </div>
       </div>
@@ -3903,6 +3975,6 @@ nike.exp.script.device_detect = nike.exp.script.device_detect || {};
 
 
     
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"errorBeacon":"bam.nr-data.net","licenseKey":"0145ce1971","agent":"","beacon":"bam.nr-data.net","applicationTime":60,"applicationID":"9208630","transactionName":"bwFWbEIEXkAHABULX1ZLZl1BEFVAEiIVFkJRBkFMVUoKVwMQChZfSElEXEBIU1wIFxMNXFQBRg==","queueTime":0}</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"errorBeacon":"bam.nr-data.net","licenseKey":"0145ce1971","agent":"","beacon":"bam.nr-data.net","applicationTime":453,"applicationID":"9208630","transactionName":"bwFWbEIEXkAHABULX1ZLZl1BEFVAEiIVFkJRBkFMVUoKVwMQChZfSElEXEBIU1wIFxMNXFQBRg==","queueTime":1}</script>
 </body>
 </html>
