@@ -26,9 +26,9 @@ def get_price_nike(url_address):
     
     for x in range(0, total_lines):
         if content[x].find(target) != -1:
-            start = content[x].find("$")
+            start = content[x].find(">CAD")
             end = content[x].find("/")
-            temp = content[x][start + 1: end - 1]
+            temp = content[x][start + 5: end - 1]
             price = float(temp)
             return price
     
